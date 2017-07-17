@@ -1,1 +1,1 @@
-include ':app', ':cardviewdemo', ':statusbar', ':palette'
+include ':app', ':cardviewdemo', ':statusbar', ':palette', ':behavior'
